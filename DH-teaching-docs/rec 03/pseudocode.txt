@@ -1,0 +1,16 @@
+---
+title: POS Masher Pseudocode
+date: Feb 6 2015
+---
+
+1. ask user for counts (given) for each POS and total words, storing response as float
+2. define constant variables - means and standard deviations (given)
+3. NORMALIZE: divide each POS by total
+4. DEVIANCE: find absolute value of the normalized POS count minus the mean for that POS
+5. "DELTA": divide deviance by standard deviation
+6. Print normalized value, deviance, and delta for each of your parts of speech
+
+#DEPENDING ON TIME#
+
+6A. For each POS, check if # of standard deviations from mean is greater than 2*std. If so, print "There is a significantly significantly abnormal proportion of [POS] in this text."
+

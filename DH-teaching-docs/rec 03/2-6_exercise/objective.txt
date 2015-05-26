@@ -1,0 +1,12 @@
+Objective: Counting instances of different parts of speech may be able to tell us something useful about a text, but only if we know what to do with the data. This exercise will use POS-counts from a small sample of texts (6) from 1881-1914; five of them are generically similar, but one is drastically different. Anyone familiar with these novels will be able to tell immediately, but can we use POS-counts to find the outlier? This exercise will result in a program that requests set of word counts by part of speech for a given text and determines if there are any abnormally high or low counts (with abnormal is defined by 2 or more standard deviations away from the mean). Means and standard deviations are given in constants.txt.
+
+Exercise: Write a program that accepts as inputs part-of-speech counts (given) and returns a normalized count, deviation from the mean of all samples, and number of standard deviations away from the mean. (Means and standard deviations will be supplied.) 
+
+Novels (from project Gutenberg):
+
+Henry James, Portrait of a Lady
+Mark Twain, Connecticut Yankee in King Arthur's Court
+Stephen Crane, The Red Badge of Courage
+Edith Wharton, House of Mirth
+Theodore Dreiser, The Financier
+Gertrude Stein, Tender Buttons

@@ -1,0 +1,53 @@
+crane_badge.txt contains 1468 conjugations.
+crane_badge.txt contains 5496 determiners.
+crane_badge.txt contains 2574 adjectives.
+crane_badge.txt contains 6111 prepositions.
+crane_badge.txt contains 11299 nouns.
+crane_badge.txt contains 1948 adverbs.
+crane_badge.txt contains 8751 verbs.
+crane_badge.txt contains 46072 total words.
+
+twaine_yankee.txt contains 6652 conjugations.
+twaine_yankee.txt contains 12665 determiners.
+twaine_yankee.txt contains 6340 adjectives.
+twaine_yankee.txt contains 14011 prepositions.
+twaine_yankee.txt contains 24021 nouns.
+twaine_yankee.txt contains 6362 adverbs.
+twaine_yankee.txt contains 20742 verbs.
+twaine_yankee.txt contains 117224 total words.
+
+wharton_house.txt contains 4506 conjugations.
+wharton_house.txt contains 12450 determiners.
+wharton_house.txt contains 7590 adjectives.
+wharton_house.txt contains 17515 prepositions.
+wharton_house.txt contains 25171 nouns.
+wharton_house.txt contains 6588 adverbs.
+wharton_house.txt contains 23251 verbs.
+wharton_house.txt contains 129095 total words.
+
+dreiser_financier.txt contains 8171 conjugations.
+dreiser_financier.txt contains 17524 determiners.
+dreiser_financier.txt contains 11442 adjectives.
+dreiser_financier.txt contains 23606 prepositions.
+dreiser_financier.txt contains 35604 nouns.
+dreiser_financier.txt contains 12611 adverbs.
+dreiser_financier.txt contains 35496 verbs.
+dreiser_financier.txt contains 193350 total words.
+
+stein_tender.txt contains 799 conjugations.
+stein_tender.txt contains 2411 determiners.
+stein_tender.txt contains 1099 adjectives.
+stein_tender.txt contains 1191 prepositions.
+stein_tender.txt contains 3515 nouns.
+stein_tender.txt contains 1216 adverbs.
+stein_tender.txt contains 2717 verbs.
+stein_tender.txt contains 14959 total words.
+
+james_portrait.txt contains 6813 conjugations.
+james_portrait.txt contains 19356 determiners.
+james_portrait.txt contains 13975 adjectives.
+james_portrait.txt contains 27822 prepositions.
+james_portrait.txt contains 38062 nouns.
+james_portrait.txt contains 15796 adverbs.
+james_portrait.txt contains 44459 verbs.
+james_portrait.txt contains 230334 total words.
